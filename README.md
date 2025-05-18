@@ -1,7 +1,5 @@
 # Trip-Planner-
 
-![Project Banner](images/banner.png) <!-- Replace with your banner image path -->
-
 ## Overview
 
 Trip-Planner- is a Java application designed to help users plan, organize, and manage their trips efficiently. Whether you're preparing for a vacation, a business trip, or day-to-day travel, this tool aims to streamline your itinerary and enhance your travel experience.
@@ -15,9 +13,8 @@ Trip-Planner- is a Java application designed to help users plan, organize, and m
 - User-friendly interface built with Java
 
 ## Screenshots
-
-![Main Dashboard](images/dashboard.png) <!-- Replace with your screenshot path -->
-![Itinerary Example](images/itinerary.png) <!-- Replace with your screenshot path -->
+![Screenshot 2025-05-18 165522](https://github.com/user-attachments/assets/5f17f0f4-2781-4a8c-a000-794ab478e50f)
+![Screenshot 2025-05-18 165931](https://github.com/user-attachments/assets/d9844aa9-fea2-48d7-bf60-b71a0fa8a13a)
 
 ## Getting Started
 
