@@ -1,4 +1,4 @@
-# Trip-Planner-
+# Trip-Planner
 
 ## Overview
 
