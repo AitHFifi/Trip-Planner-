@@ -50,3 +50,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or feedback, please contact [AitHFifi](https://github.com/AitHFifi).
+Instagram : [Frederic ALLOGHO](https://www.instagram.com/alloghofils).
